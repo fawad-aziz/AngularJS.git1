@@ -10,3 +10,9 @@ C:\Users\FA186011\Documents\No-Backup\SourceCode\EmployeeFormApp\EmployeeFormApp
 C:\Users\FA186011\Documents\No-Backup\SourceCode\EmployeeFormApp\EmployeeFormApp\obj\Debug\EmployeeFormApp.csprojResolveAssemblyReference.cache
 C:\Users\FA186011\Documents\No-Backup\SourceCode\EmployeeFormApp\EmployeeFormApp\obj\Debug\EmployeeFormApp.dll
 C:\Users\FA186011\Documents\No-Backup\SourceCode\EmployeeFormApp\EmployeeFormApp\obj\Debug\EmployeeFormApp.pdb
+C:\Users\FA186011\Documents\No-Backup\SourceCode\AngularJS.git\AngularJS.git\EmployeeFormApp\EmployeeFormApp\bin\EmployeeFormApp.dll.config
+C:\Users\FA186011\Documents\No-Backup\SourceCode\AngularJS.git\AngularJS.git\EmployeeFormApp\EmployeeFormApp\bin\EmployeeFormApp.dll
+C:\Users\FA186011\Documents\No-Backup\SourceCode\AngularJS.git\AngularJS.git\EmployeeFormApp\EmployeeFormApp\bin\EmployeeFormApp.pdb
+C:\Users\FA186011\Documents\No-Backup\SourceCode\AngularJS.git\AngularJS.git\EmployeeFormApp\EmployeeFormApp\obj\Debug\EmployeeFormApp.csprojResolveAssemblyReference.cache
+C:\Users\FA186011\Documents\No-Backup\SourceCode\AngularJS.git\AngularJS.git\EmployeeFormApp\EmployeeFormApp\obj\Debug\EmployeeFormApp.dll
+C:\Users\FA186011\Documents\No-Backup\SourceCode\AngularJS.git\AngularJS.git\EmployeeFormApp\EmployeeFormApp\obj\Debug\EmployeeFormApp.pdb

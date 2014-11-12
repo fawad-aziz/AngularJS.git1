@@ -14,6 +14,14 @@
             "Administration"
         ];
 
+        $scope.programmingLanguages = [
+            "C",
+            "C++",
+            "C#",
+            "Java",
+            "JavaScript"
+        ];
+
         $scope.submitForm = function () {
             if ($scope.editableEmployee.id == 0) {
                 //insert new Employee

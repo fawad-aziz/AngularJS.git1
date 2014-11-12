@@ -41,7 +41,8 @@
             <div class="form-group">
                 <label for="topProgrammingLanguage" class="col-sm-3 control-label">Top Programming Language</label>
                 <div class="col-sm-9">
-                    <input type="text" id="topProgrammingLanguage" name="topProgrammingLanguage" class="form-control" ng-model="editableEmployee.topProgrammingLanguage" />
+                    <input type="text" id="topProgrammingLanguage" name="topProgrammingLanguage" class="form-control" ng-model="editableEmployee.topProgrammingLanguage"
+                           typeahead="language for language in programmingLanguages | filter:$viewValue"/>
                 </div>
             </div>
         </fieldset>

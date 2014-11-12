@@ -9,7 +9,7 @@
                     department: "Engineering",
                     dateHired: "July 14, 2014",
                     breakTime: "July 14, 2014 8:00 AM",
-                    topProgrammingLanguage: "CSharp",
+                    topProgrammingLanguage: "C#",
                     perkCar: false,
                     perkStock: true,
                     perkSixWeeks: false,
