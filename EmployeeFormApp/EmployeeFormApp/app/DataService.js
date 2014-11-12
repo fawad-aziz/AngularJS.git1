@@ -5,6 +5,7 @@
                 return {
                     id: 123,
                     fullName: "Fawad Aziz",
+                    email: "fawad.aziz@teradata.com",
                     notes: "Senior software engineer, working for R&D IT US.",
                     department: "Engineering",
                     dateHired: "July 14, 2014",

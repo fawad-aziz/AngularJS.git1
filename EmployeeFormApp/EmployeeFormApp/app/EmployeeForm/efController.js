@@ -22,7 +22,17 @@
             "JavaScript"
         ];
 
+        $scope.shouldShowFullName = function () {
+            return true;
+        };
+
         $scope.submitForm = function () {
+
+            $scope.$broadcast('show-errors-event');
+
+            if ($scope.employeeForm.$invalid)
+                return;
+
             if ($scope.editableEmployee.id == 0) {
                 //insert new Employee
                 DataService.insertEmployee($scope.editableEmployee);
@@ -40,5 +50,9 @@
         $scope.cancelForm = function () {
             $window.history.back();
             //$modalInstance.dismiss();
+        }
+
+        $scope.resetForm = function () {
+            $scope.$broadcast('hide-errors-event');
         }
 });
